@@ -4,22 +4,22 @@ A ReactJS boiler plate project to get you going faster
 ## How to use react-boiler
 Clone the repo to your machine
 ```
-§ git clone https://github.com/michaelbarnes/react-boiler.git
+$ git clone https://github.com/michaelbarnes/react-boiler.git
 ```
 Navigate to the directory
 ```
-§ cd react-boiler
+$ cd react-boiler
 ```
 Install all of the dependancies
 ```
-§ npm install
+$ npm install
 ```
 
 Rename all the things, you obviously don't want your app to be called react-boiler
 
 Finally Run Gulp
 ```
-§ gulp
+$ gulp
 ```
 
 Create your app
